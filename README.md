@@ -1,5 +1,5 @@
 # 🍃 Natures Platter 🍽️
-Live link: 
+Live link: https://riyazularfaat.github.io/assignment-02-tailwind-project/
 
 ## 🖼️ Sample Preview  
 <table>
